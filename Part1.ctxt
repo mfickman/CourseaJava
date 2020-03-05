@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\r\n\ Write\ a\ description\ of\ Part1\ here.\r\n\ \r\n\ Write\ the\ method\ findSimpleGene\ that\ has\ one\ \r\n\ String\ paramter\ dna,\ representing\ a\ sting\ of\ DNA.\r\n\ The\ method\ findSimpleGene\ will\ do\ the\ following\:\r\n\ Find\ index\ postion\ of\ first\ start\ codon\ (ATG),\ if\ none\ exist,\ return\ empty\ string\r\n\ Find\ index\ position\ of\ first\ stop\ codon\ (TAA),\ if\ none\ exist,\ return\ emplty\ sring\r\n\ check\ if\ substring\ between\ stop\ and\ start\ is\ multiple\ of\ 3,\ and\ if\ so,\ return\ substring\r\n\ \r\n\ Write\ void\ method\ to\ testSimpleGene\ that\ has\ no\ paramters,\ create\ 5\ test\ cases\r\n\ DNA\ with\ no\ ATG\r\n\ DNA\ with\ no\ TAA\r\n\ DNA\ with\ no\ ATG\ or\ TAA\r\n\ DNA\ with\ ATG\ and\ TAA,\ and\ substring\ is\ muliple\ of\ 3\r\n\ DNA\ with\ ATG\ and\ TAA,\ and\ substring\ is\ not\ a\ multiple\ of\ 3\r\n\ @author\ (Mark\ Fickman)\ \r\n\ @version\ (3/5/2020)\r\n
+comment1.params=dna
+comment1.target=java.lang.String\ findSimpleGene(java.lang.String)
+comment2.params=
+comment2.target=void\ testSimpleGene()
+numComments=3
